@@ -168,7 +168,7 @@ transition: 0.3s ;
 /* start landing section */
 
 .landing {
-    background-image:url(ph.jpg);
+    background-image:url(../img/ph.jpg);
     background-size:cover;
     height:calc(100vh - 64px);
     position:relative;
